@@ -1,0 +1,5 @@
+{
+  "name": "Live Q&A Podium",
+  "description": "An interactive Q&A platform for speakers and their audience during live events. Audience members can ask questions, and the speaker can view and answer them in real-time through a dedicated admin panel.",
+  "requestFramePermissions": []
+}
